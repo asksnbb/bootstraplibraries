@@ -1223,4 +1223,4 @@ max-w-none,
 min-w-0,
 min-w-full,
 justify-center,
-items-center,
+items-center
